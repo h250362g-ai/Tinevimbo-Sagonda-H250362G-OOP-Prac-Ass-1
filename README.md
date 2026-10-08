@@ -1,7 +1,5 @@
 # OOP Bank Account Assignment
 
-## Student Information
-
 * **Full Name:** Tinevimbo Sagonda
 * **Registration Number:** H250362G
 * **Department:** Software Engineering
